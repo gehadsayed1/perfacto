@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/perfacto/static/css/main.fd1cc2c3.css",
+    "main.js": "/perfacto/static/js/main.8bc8652d.js",
+    "static/media/Perfecto New.png": "/perfacto/static/media/Perfecto New.d9115cb846c720fede5e.png",
+    "static/media/woman-3040029_1280.jpg": "/perfacto/static/media/woman-3040029_1280.8b88582fbf7dd5e5bc8c.jpg",
+    "static/media/417433848_693187839691350__n.jpg": "/perfacto/static/media/417433848_693187839691350_4451161736274379705_n.8ad3f150f01440090d08.jpg",
+    "static/media/b18-removebg-preview.png": "/perfacto/static/media/b18-removebg-preview.3c789dd0002efc7f419f.png",
+    "static/media/sale-on-broken-ice-photo.jpg": "/perfacto/static/media/sale-on-broken-ice-photo.0fae5de7649fd7342c17.jpg",
+    "static/media/store-locator-banner-ar-mob.png": "/perfacto/static/media/store-locator-banner-ar-mob.f6c7fb2ce4abdc53093b.png",
+    "static/media/cloud-2044823_1280.webp": "/perfacto/static/media/cloud-2044823_1280.16e4656402764f2765e8.webp",
+    "static/media/photo_2024-07-28_14-31-22.jpg": "/perfacto/static/media/photo_2024-07-28_14-31-22.e0753627f7cc2348575a.jpg",
+    "static/media/order_completed_icon_176856 (1).webp": "/perfacto/static/media/order_completed_icon_176856 (1).eb71f89355fd883a925c.webp",
+    "static/media/sign-in.png": "/perfacto/static/media/sign-in.5c3bab5afde63166dde3.png",
+    "static/media/log-in (1).png": "/perfacto/static/media/log-in (1).0c0e99d066c519afa1ad.png",
+    "static/media/clothes-on-grunge-background-shelf-600nw-1867100056.webp": "/perfacto/static/media/clothes-on-grunge-background-shelf-600nw-1867100056.3f469b536fcc154e2920.webp",
+    "index.html": "/perfacto/index.html",
+    "main.fd1cc2c3.css.map": "/perfacto/static/css/main.fd1cc2c3.css.map",
+    "main.8bc8652d.js.map": "/perfacto/static/js/main.8bc8652d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1cc2c3.css",
+    "static/js/main.8bc8652d.js"
+  ]
+}
